@@ -19,7 +19,6 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/mvpetrungaro/my-spring-boot-app.git</connection>
-		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>

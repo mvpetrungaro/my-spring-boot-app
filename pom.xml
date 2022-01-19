@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.pritto</groupId>
 	<artifactId>my-spring-boot-app</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 
 	<name>my-spring-boot-app</name>
 	<!-- FIXME change it to the project's website -->
@@ -21,7 +19,8 @@
 	
 	<scm>
 		<connection>scm:git:https://github.com/mvpetrungaro/my-spring-boot-app.git</connection>
-	</scm>
+	  <tag>my-spring-boot-app-1.0</tag>
+  </scm>
 
 	<dependencies>
 		<dependency>
